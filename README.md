@@ -10,6 +10,9 @@ I am a finance and accounting professional with extensive experience in financia
 
 I am passionate about using data to identify trends, uncover patterns, evaluate business performance, and support informed decision-making.
 
+I use data to identify trends, investigate variances, support decision-making, and communicate business insights.
+
+
 My background in Accounting, Finance, and Auditing provides a strong foundation for analyzing financial and business data.
 
 🛠️ Technical Skills
@@ -48,6 +51,13 @@ Key areas:
 - Perform statistical analysis
 - Develop business insights
 - Present data through clear visualizations
+- 
+## 📂 Projects
+
+- 📊 **Global Inflation & Cost of Living Analysis** — Excel & Power BI
+
+🔗 [View Project](YOUR_PROJECT_LINK)
+(https://github.com/victory-4-ever/data---analytics---portfolio/tree/main/Global%20Inflation%20Cost%20of%20Living%20Analysis)
 
 🎯 Career Goal
 
@@ -56,14 +66,4 @@ To combine my experience in Finance, Accounting, Auditing, and Data Analytics to
 📫 Connect With Me
 
 I am open to opportunities, collaborations, and projects involving Data Analytics, Financial Analysis, Business Intelligence, and Accounting. 
-
-## 📊 Featured Project
-
-### Global Inflation & Cost of Living Analysis
-
-An Excel and Power BI data analytics project examining global inflation trends and cost-of-living changes across countries and regions.
-
-**Tools:** Microsoft Excel | Power BI | Data Analysis
-
-🔗 [View Project](https://github.com/victory-4-ever/data---analytics---portfolio/tree/main/Global%20Inflation%20Cost%20of%20Living%20Analysis)
 
