@@ -1,3 +1,5 @@
+<img width="1182" height="660" alt="Global Inflation Dashboard" src="https://github.com/user-attachments/assets/666a5be3-aeb5-4165-b070-f889ed2ff702" />
+
 # 📊 Data Analytics Portfolio
 
 Welcome to my Data Analytics Portfolio.
