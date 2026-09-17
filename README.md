@@ -65,5 +65,5 @@ An Excel and Power BI data analytics project examining global inflation trends a
 
 **Tools:** Microsoft Excel | Power BI | Data Analysis
 
-🔗 [View Project](YOUR_PROJECT_LINK)
+🔗 [View Project](https://github.com/victory-4-ever/data---analytics---portfolio/tree/main/Global%20Inflation%20Cost%20of%20Living%20Analysis)
 
