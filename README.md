@@ -57,4 +57,13 @@ To combine my experience in Finance, Accounting, Auditing, and Data Analytics to
 
 I am open to opportunities, collaborations, and projects involving Data Analytics, Financial Analysis, Business Intelligence, and Accounting. 
 
+## 📊 Featured Project
+
+### Global Inflation & Cost of Living Analysis
+
+An Excel and Power BI data analytics project examining global inflation trends and cost-of-living changes across countries and regions.
+
+**Tools:** Microsoft Excel | Power BI | Data Analysis
+
+🔗 [View Project](YOUR_PROJECT_LINK)
 
